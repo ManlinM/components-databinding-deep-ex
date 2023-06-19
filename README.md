@@ -1,6 +1,6 @@
 # What I learned
 ## Component Interaction/Communication
--Through this project, I have learned that data binding between components can become more complex when transferring data through multiple components, especially as the application grows in complexity. 
+- Through this project, I have learned that data binding between components can become more complex when transferring data through multiple components, especially as the application grows in complexity. 
     - To address this challenge, Angular provides the @Input and @Output decorators, which facilitate the seamless binding of data between components. 
     - By utilizing @Input, data can be passed from a parent component to its child component, enabling easy communication and sharing of information. 
     - On the other hand, @Output allows child components to emit events and send data back to their parent components. 
